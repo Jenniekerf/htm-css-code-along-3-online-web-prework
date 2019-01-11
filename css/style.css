@@ -11,4 +11,6 @@ Selector  {
 
 /* Type selector */
 
-p 
+p {
+  font-size: 16px;
+}
